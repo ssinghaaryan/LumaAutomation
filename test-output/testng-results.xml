@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-21T11:26:06 IST" name="Automation Suite" finished-at="2024-05-21T11:26:27 IST" duration-ms="21199">
+    <groups>
+    </groups>
+    <test started-at="2024-05-21T11:26:06 IST" name="Automation Test Caes" finished-at="2024-05-21T11:26:27 IST" duration-ms="21199">
+      <class name="com.qa.testcases.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.SearchTest@7b36aa0c]" started-at="2024-05-21T11:26:07 IST" name="setup" finished-at="2024-05-21T11:26:14 IST" duration-ms="7573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithValidProducts()[pri:1, instance:com.qa.testcases.SearchTest@7b36aa0c]" started-at="2024-05-21T11:26:14 IST" name="searchWithValidProducts" finished-at="2024-05-21T11:26:15 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithValidProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.SearchTest@7b36aa0c]" started-at="2024-05-21T11:26:15 IST" name="tearDown" finished-at="2024-05-21T11:26:15 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.SearchTest@7b36aa0c]" started-at="2024-05-21T11:26:15 IST" name="setup" finished-at="2024-05-21T11:26:21 IST" duration-ms="5659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithInvalidProducts()[pri:2, instance:com.qa.testcases.SearchTest@7b36aa0c]" started-at="2024-05-21T11:26:21 IST" name="searchWithInvalidProducts" finished-at="2024-05-21T11:26:21 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithInvalidProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.SearchTest@7b36aa0c]" started-at="2024-05-21T11:26:21 IST" name="tearDown" finished-at="2024-05-21T11:26:21 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.SearchTest@7b36aa0c]" started-at="2024-05-21T11:26:21 IST" name="setup" finished-at="2024-05-21T11:26:27 IST" duration-ms="5718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithNoProduct()[pri:3, instance:com.qa.testcases.SearchTest@7b36aa0c]" started-at="2024-05-21T11:26:27 IST" name="searchWithNoProduct" finished-at="2024-05-21T11:26:27 IST" depends-on-methods="com.qa.testcases.SearchTest.searchWithInvalidProducts" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithNoProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.SearchTest@7b36aa0c]" started-at="2024-05-21T11:26:27 IST" name="tearDown" finished-at="2024-05-21T11:26:27 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.SearchTest -->
+    </test> <!-- Automation Test Caes -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
