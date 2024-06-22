@@ -50,4 +50,45 @@ LumaAutomation
                 └───qa
                     ├───base
                     ├───testcases 
+
+
+
+
+
+├── README.md
+├── pom.xml
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── com
+│   │           └── qa
+│   │               ├── config
+│   │               │   └── config.properties
+│   │               ├── listeners
+│   │               │   └── Listeners.java
+│   │               ├── pages
+│   │               │   ├── AccountCreationPage.java
+│   │               │   ├── AccountPage.java
+│   │               │   ├── HomePage.java
+│   │               │   ├── LoginPage.java
+│   │               │   ├── RegisterPage.java
+│   │               │   └── SearchPage.java
+│   │               ├── testdata
+│   │               │   ├── TestData.xlsx
+│   │               │   └── testdata.properties
+│   │               └── utils
+│   │                   ├── ExtentReporter.java
+│   │                   └── Utilities.java
+│   └── test
+│       ├── java
+│       │   └── com
+│       │       └── qa
+│       │           ├── base
+│       │           │   └── Base.java
+│       │           └── testcases
+│       │               ├── LoginTest.java
+│       │               ├── RegisterTest.java
+│       │               └── SearchTest.java
+│       └── resource
+│           └── testng.xml
     
