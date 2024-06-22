@@ -30,29 +30,6 @@ This project is a Hybrid Automation Framework for an e-commerce website develope
 - **Version Control:** Managed using Git for version control.
 
 
-LumaAutomation
-│   README.md
-│   pom.xml
-└───src
-    └───main
-    │   └───java
-    │       └───com
-    │           └───qa
-    │               └───framework
-    │                   ├───config
-    │                   ├───listeners
-    │                   ├───pages
-    │                   ├───testdata
-    │                   └───utils
-    └───test
-        └───java
-            └───com
-                └───qa
-                    ├───base
-                    ├───testcases 
-
-
-
 
 ```
 ├── README.md
