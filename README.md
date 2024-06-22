@@ -70,4 +70,7 @@ This project is a Hybrid Automation Framework for an e-commerce website develope
 │           └── testng.xml
 ```
 
+## Comments
+
+Will be adding more Test Cases and information as I go along. 
     
