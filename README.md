@@ -24,7 +24,6 @@ This project is a Hybrid Automation Framework for an e-commerce website develope
 
 - **Modular and Scalable:** Easily extendable for additional test cases and modules.
 - **Data-Driven Testing:** Supports testing with multiple sets of data using external files (Excel, CSV).
-- **Keyword-Driven Testing:** Allows tests to be created using keywords specified in external files.
 - **Continuous Integration:** Seamless integration with Jenkins for CI/CD pipelines.
 - **Reporting:** Comprehensive test reports generated using Extent Reports.
 - **Version Control:** Managed using Git for version control.
