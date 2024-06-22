@@ -29,7 +29,7 @@ This project is a Hybrid Automation Framework for an e-commerce website develope
 - **Reporting:** Comprehensive test reports generated using Extent Reports.
 - **Version Control:** Managed using Git for version control.
 
-
+## Project Folder Structure
 
 ```
 ├── README.md
