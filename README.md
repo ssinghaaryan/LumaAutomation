@@ -9,7 +9,11 @@
 ![Extent Reports](https://img.shields.io/badge/Extent%20Reports-4B8BBE?style=for-the-badge&logo=extent-reports&logoColor=white)
 
 
-![LumaAutomation Framework Design](https://github.com/ssinghaaryan/LumaAutomation/assets/86829777/ea8dd368-34c3-4e0d-b2c7-1d1d676ef673)
+
+
+![image](https://github.com/ssinghaaryan/LumaAutomation/assets/86829777/01a8caf2-c160-4d89-9ee0-8085fd8779f3)
+
+
 
 
 ## Introduction
