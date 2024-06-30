@@ -18,7 +18,7 @@
 
 ## Introduction
 
-This project is a Hybrid Automation Framework for an [e-commerce website]([url](https://tutorialsninja.com/demo/)) developed using Selenium, Java, TestNG, Maven, Jenkins, Git, and Extent Reports. The framework is designed to support both data-driven and keyword-driven testing approaches, providing test automation for functionalities such as user registration, user login, product search, shopping cart operations, checkout process.
+This project is a Hybrid Automation Framework for an [e-commerce website](https://tutorialsninja.com/demo/) developed using Selenium, Java, TestNG, Maven, Jenkins, Git, and Extent Reports. The framework is designed to support both data-driven and keyword-driven testing approaches, providing test automation for functionalities such as user registration, user login, product search, shopping cart operations, checkout process.
 
 ## Features
 
